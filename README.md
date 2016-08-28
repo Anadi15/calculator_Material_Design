@@ -19,7 +19,7 @@ The gif was recorded on a Android 4.4 KitKat device (API Level 19).
 
 Sample Application
 ==================
-The application has been published onto Google Play for easy access:
+The application soon get published onto Google Play for easy access:
 
 [![Get it on Google Play](http://www.android.com/images/brand/get_it_on_play_logo_small.png)](https://play.google.com/store/apps/details?id=com.rahul.material.calculator)
 
@@ -36,7 +36,7 @@ The project can be compiled from the command line using Gradle.
 License
 =======
 
-    Copyright 2014 Rahul Parsani
+    Copyright 2016 Anadi Shankar
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
