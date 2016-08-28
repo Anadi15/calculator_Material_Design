@@ -17,11 +17,6 @@ The gif was recorded on a Android 4.4 KitKat device (API Level 19).
 
 ![](art/hero.gif)
 
-Sample Application
-==================
-The application soon get published onto Google Play for easy access:
-
-[![Get it on Google Play](http://www.android.com/images/brand/get_it_on_play_logo_small.png)](https://play.google.com/store/apps/details?id=com.rahul.material.calculator)
 
 
 How to use this source code
